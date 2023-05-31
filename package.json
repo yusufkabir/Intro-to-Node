@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.15.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufkabir/Intro-to-Node.git"
+  },
+  "author": "Kabir Yusuf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusufkabir/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/yusufkabir/Intro-to-Node#readme"
+}
